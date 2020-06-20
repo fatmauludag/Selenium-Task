@@ -1,4 +1,4 @@
-package com.testium.task;
+package com.testinium.task;
 
 import org.junit.Assert;
 import org.junit.Before;

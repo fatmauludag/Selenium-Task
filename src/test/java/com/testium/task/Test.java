@@ -1,4 +1,4 @@
-package com.testium.task;
+package com.testinium.task;
 
 public class Test {
     public static void main(String[] args) {
